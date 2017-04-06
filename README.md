@@ -5,5 +5,5 @@ Unity Serialization.
 # Control
 F5: Save  
 F9: Load  
-E : Draw a ball  
-BackSpace: Clear all   
+E: Draw a ball  
+Backspace: Delete All  
